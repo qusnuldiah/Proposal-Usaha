@@ -1,3 +1,3 @@
-# Struktur Proposal Usaha
+# Proposal Usaha
 
 Judul
