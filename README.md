@@ -1,11 +1,9 @@
 # Proposal usaha
 Struktur Proposal usaha 
 
-1. Pendahuluan 
-	Pendahuluan merupakan bagian pengenalan. Pendahuluan berisikan latar belakang usaha dan visi misi usaha yang akan didirikan.
+1. Pendahuluan, Pendahuluan merupakan bagian pengenalan. Pendahuluan berisikan latar belakang usaha dan visi misi usaha yang akan didirikan.
 
- 2. Profil badan usaha
-	 profil badan usaha ini perlu menuliskan jenis usaha, nama perusahaan serta lokasi usaha. 
+ 2. Profil badan usaha, profil badan usaha ini perlu menuliskan jenis usaha, nama perusahaan serta lokasi usaha. 
 
 3. Struktur organisasi perusahaan
 	jika usaha yang dibuat telah memiliki sistem menajerial yang baik, maka bisa dituliskan pemilik usaha, pengelola, marketing, dan lain sebagainya.
